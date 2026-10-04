@@ -1,0 +1,61 @@
+# Flutter / Dart caches and generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub/
+.pub-cache/
+/build/
+**/build/
+/coverage/
+**/doc/api/
+
+# Machine-local SDK configuration and IDE/workspace files
+**/local.properties
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Android/Gradle build state and generated outputs
+/android/.gradle/
+/android/captures/
+/android/.cxx/
+/android/app/.cxx/
+/android/app/debug/
+/android/app/profile/
+/android/app/release/
+/android/app/outputs/
+**/GeneratedPluginRegistrant.java
+
+# Logs and temporary/editor files
+*.class
+*.log
+*.swp
+*.tmp
+*.pyc
+__pycache__/
+
+# Secrets, credentials, and signing material
+.env
+.env.*
+!.env.example
+**/key.properties
+**/*signing*.properties
+**/*.keystore
+**/*.jks
+**/*.p12
+**/*.pfx
+**/*.pem
+**/*.key
+**/*credentials*.json
+**/*service-account*.json
+
+# Build artifacts must not be committed or attached as source
+**/*.apk
+**/*.aab
+**/*.apks
+**/*.ipa
+**/*.xcarchive/
