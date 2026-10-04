@@ -1,0 +1,38 @@
+{
+  "originalSubjects": [
+    "Biology",
+    "Chemistry",
+    "Citizenship / Civics",
+    "Economics",
+    "Geography",
+    "Health & Physical Education",
+    "History",
+    "Mathematics",
+    "Physics"
+  ],
+  "originalQuizCount": 66,
+  "originalQuestionCount": 1776,
+  "originalQuestionTypes": {
+    "multiple_choice": 1218,
+    "fill_in": 558
+  },
+  "originalFlashcardCount": 462,
+  "additionalGeographyQuizCount": 8,
+  "additionalGeographyQuestionCount": 48,
+  "additionalGeographyFlashcardCount": 64,
+  "finalQuizCount": 74,
+  "finalQuestionCount": 1824,
+  "finalFlashcardCount": 526,
+  "perSubject": {
+    "Biology": 6,
+    "Chemistry": 6,
+    "Citizenship / Civics": 8,
+    "Economics": 8,
+    "Geography": 16,
+    "Health & Physical Education": 8,
+    "History": 9,
+    "Mathematics": 7,
+    "Physics": 6
+  },
+  "assetBytes": 1455549
+}
